@@ -96,3 +96,12 @@ test set.
 - Add more datasets for training
 - Compare multiple machine learning algorithms
 - Deploy the system as a web application
+## Screenshots
+
+### HAM Message Detection
+
+![HAM Detection](screenshots/ham_result.png)
+
+### SPAM Message Detection
+
+![SPAM Detection](screenshots/spam_result.png)
