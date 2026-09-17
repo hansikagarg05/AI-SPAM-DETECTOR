@@ -104,4 +104,4 @@ test set.
 
 ### SPAM Message Detection
 
-![SPAM Detection](screenshots/spam_result.png)
+![SPAM Detection](screenshots/spam_result.png)-
